@@ -1,4 +1,5 @@
 # 🌱 FarmTech Solutions - Sistema Integrado (Fase 7)
+lINK DO VIDEO https://youtu.be/Re7WcLi58wQ
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)
